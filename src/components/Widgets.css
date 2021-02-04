@@ -1,0 +1,9 @@
+.widgets {
+    background-color: white;
+    height: 200px;
+    color: cornflowerblue;
+}
+
+.widgets > h4 {
+    margin: 40px;
+}
